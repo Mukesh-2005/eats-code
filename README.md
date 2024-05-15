@@ -1,1 +1,2 @@
-# eats-code
+# update eats-code
+print("hello world")
